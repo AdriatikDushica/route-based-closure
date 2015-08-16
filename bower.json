@@ -1,0 +1,14 @@
+{
+  "name": "route-based-closure",
+  "version": "1.0.0",
+  "description": "When you want to execute something only in one page but the script is included everywhere.",
+  "main": "route-based-closure.js",
+  "keywords": [
+    "router",
+    "closure"
+  ],
+  "authors": [
+    "Adriatik Dushica <adriatik.dushica@gmail.com>"
+  ],
+  "license": "MIT"
+}
