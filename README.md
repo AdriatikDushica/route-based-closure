@@ -10,7 +10,7 @@ Include the file
 
 How to use the library
 
-	//Difine routes and closures
+	//Define routes and closures
 	Router.whenISee('/').then(function(){
 		alert("You're welcome!");
 	});
